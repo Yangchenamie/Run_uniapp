@@ -1,0 +1,19 @@
+.content .items.data-v-7aee734e {
+  display: flex;
+  text-align: center;
+  height: 60px;
+  background-color: #fff;
+  border-bottom-left-radius: 30rpx;
+  border-bottom-right-radius: 30rpx;
+  box-shadow: 2rpx 2rpx 10rpx 1rpx rgba(0, 0, 0, 0.3);
+}
+.content .items view.data-v-7aee734e {
+  width: calc(100% / 7);
+  height: 120rpx;
+  line-height: 120rpx;
+}
+.content .items .active.data-v-7aee734e {
+  background-color: #4b7af6;
+  border-radius: 40rpx;
+}
+

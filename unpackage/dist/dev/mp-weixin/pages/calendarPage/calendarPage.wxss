@@ -1,0 +1,138 @@
+
+.container.data-v-27e21126 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  /* height: 100vh; */
+  background-color: #f0f0f0;
+}
+.calendar.data-v-27e21126 {
+  background-color: #fff;
+  box-shadow: 0 0 5px #ccc;
+  border-radius: 5px;
+  overflow: hidden;
+  margin-bottom: 20px;
+}
+.calendar-header.data-v-27e21126 {
+  display: flex;
+  align-items: center;
+  /* justify-content: center; */
+  justify-content: space-evenly;
+  height: 40px;
+  font-size: 18px;
+  font-weight: bold;
+  color: #333;
+}
+.prev-month.data-v-27e21126,
+.next-month.data-v-27e21126 {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+  cursor: pointer;
+}
+.month.data-v-27e21126 {
+  flex: 1;
+  text-align: center;
+}
+.calendar-body.data-v-27e21126 {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+}
+.calendar-week.data-v-27e21126 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 30px;
+  background-color: #f0f0f0;
+}
+.calendar-day.data-v-27e21126 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: calc(100% / 7);
+  height: 60px;
+  font-size: 14px;
+  color: #333;
+  cursor: pointer;
+}
+.calendar-day-number.data-v-27e21126 {
+  font-size: 20px;
+  font-weight: bold;
+      z-index: 999;
+}
+.active.data-v-27e21126{
+  position: relative;
+}
+.active.data-v-27e21126::after {
+  content: '';
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border-radius: 50%;
+  background-color: pink;
+}
+.textColor.data-v-27e21126 {
+  color: #c0c0c0 !important;
+}
+.calendar-day-event.data-v-27e21126 {
+  margin-top: 5px;
+  font-size: 12px;
+  color: #999;
+}
+.calendar-day.empty.data-v-27e21126 {
+  background-color: #f0f0f0;
+}
+.calendar-days.data-v-27e21126 {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  background-color: #f0f0f0;
+}
+.event-list.data-v-27e21126 {
+  background-color: #fff;
+  box-shadow: 0 0 5px #ccc;
+  border-radius: 5px;
+  overflow: hidden;
+}
+.event-list-header.data-v-27e21126 {
+  height: 40px;
+  font-size: 18px;
+  font-weight: bold;
+  color: #333;
+  padding: 0 10px;
+  border-bottom: 1px solid #ccc;
+}
+.event-list-body.data-v-27e21126 {
+  padding: 10px;
+}
+.event.data-v-27e21126 {
+  margin-bottom: 10px;
+}
+.event-date.data-v-27e21126 {
+  font-size: 14px;
+  color: #999;
+  margin-bottom: 5px;
+}
+.event-title.data-v-27e21126 {
+  font-size: 16px;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 5px;
+}
+.event-description.data-v-27e21126 {
+  font-size: 14px;
+  color: #666;
+  line-height: 1.5;
+}
+.activeClick.data-v-27e21126{
+   background-color: #6792f8;
+}
+

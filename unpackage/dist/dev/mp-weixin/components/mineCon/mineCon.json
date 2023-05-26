@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "countdown-list": "/components/countdownList/countdownList",
+    "calendar-con": "/components/calendarCon/calendarCon",
+    "arcbar-con": "/components/arcbarCon/arcbarCon"
+  }
+}

@@ -1,0 +1,30 @@
+.content.data-v-56685ab4 {
+  width: 100%;
+  box-sizing: border-box;
+  background-color: #f0f0f0;
+  min-height: 100vh;
+}
+.content .conTab.data-v-56685ab4 {
+  height: 270rpx;
+  background-color: #4b7af6;
+  display: flex;
+  justify-content: space-between;
+  font-size: 52rpx;
+  color: #fff;
+  align-items: center;
+  padding: 40rpx 40rpx 0;
+  box-sizing: border-box;
+}
+.content .conTab .left.data-v-56685ab4 {
+  width: 60rpx;
+  height: 60rpx;
+  margin-top: 4rpx;
+}
+.content .conTab image.data-v-56685ab4 {
+  width: 50rpx;
+  height: 50rpx;
+}
+.content .con.data-v-56685ab4 {
+  padding: 50rpx 0;
+}
+

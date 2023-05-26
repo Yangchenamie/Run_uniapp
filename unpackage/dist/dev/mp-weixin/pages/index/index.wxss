@@ -1,0 +1,9 @@
+.middle.data-v-57280228 {
+  position: relative;
+  width: 100%;
+  border-top-left-radius: 80rpx;
+  border-top-right-radius: 100rpx;
+  background-color: #fff;
+  padding-bottom: 150rpx;
+}
+

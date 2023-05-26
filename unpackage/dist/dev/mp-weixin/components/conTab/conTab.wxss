@@ -1,0 +1,35 @@
+.conTab.data-v-1b71be38 {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 40rpx;
+}
+.conTab image.data-v-1b71be38 {
+  width: 60rpx;
+  height: 60rpx;
+}
+.conTab ._ul.data-v-1b71be38 {
+  flex: 0.9;
+  display: flex;
+}
+.conTab ._ul ._li.data-v-1b71be38 {
+  flex: 0.38;
+  font-size: 28rpx;
+  text-align: center;
+}
+.conTab ._ul ._li .active.data-v-1b71be38 {
+  position: relative;
+  font-size: 36rpx;
+  font-weight: 700;
+}
+.conTab ._ul ._li .active.data-v-1b71be38::before {
+  content: '';
+  width: 170rpx;
+  height: 28rpx;
+  border-radius: 14rpx;
+  background-color: #B4D7FF;
+  position: absolute;
+  z-index: -1;
+  bottom: -10rpx;
+  left: 20rpx;
+}
+

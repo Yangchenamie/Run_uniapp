@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "pie-con": "/components/pieCon/pieCon",
+    "line-con": "/components/lineCon/lineCon"
+  }
+}

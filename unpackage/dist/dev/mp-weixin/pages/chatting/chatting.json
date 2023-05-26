@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "con-tab": "/components/conTab/conTab",
+    "message-list": "/components/messageList/messageList",
+    "friends-list": "/components/friendsList/friendsList",
+    "tabbar": "/components/tabbar/tabbar"
+  }
+}

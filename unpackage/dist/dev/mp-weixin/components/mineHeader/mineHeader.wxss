@@ -1,0 +1,70 @@
+.content.data-v-42d4fbc4 {
+  position: relative;
+  background-color: #3b7cff;
+  height: 300rpx;
+  width: 100%;
+  border-bottom-left-radius: 80rpx;
+}
+.content.data-v-42d4fbc4::before {
+  width: 80rpx;
+  height: 80rpx;
+  background-color: #3b7cff;
+  content: '';
+  position: absolute;
+  right: 0;
+  bottom: -80rpx;
+  z-index: -1;
+}
+.content .title.data-v-42d4fbc4 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  padding: 112rpx 54rpx 0;
+  box-sizing: border-box;
+  color: #fff;
+  font-size: 44rpx;
+}
+.content .title image.data-v-42d4fbc4 {
+  width: 50rpx;
+  height: 50rpx;
+  margin-top: 10rpx;
+}
+.content .person.data-v-42d4fbc4 {
+  margin-top: 35rpx;
+  padding: 0 42rpx;
+}
+.content .person .person-left.data-v-42d4fbc4 {
+  float: left;
+  display: flex;
+}
+.content .person .person-left .pic.data-v-42d4fbc4 {
+  margin-right: 20rpx;
+}
+.content .person .person-left .pic image.data-v-42d4fbc4 {
+  width: 160rpx;
+  height: 160rpx;
+  border-radius: 50%;
+}
+.content .person .person-left .nickName.data-v-42d4fbc4 {
+  font-size: 36rpx;
+  color: #fff;
+  margin-top: 20rpx;
+}
+.content .person .person-right.data-v-42d4fbc4 {
+  float: right;
+  width: 100rpx;
+  height: 100rpx;
+  background-color: #fff;
+  border-radius: 50%;
+  box-shadow: 10px 10px 20px 1px rgba(0, 0, 0, 0.3);
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  margin-top: 20rpx;
+}
+.content .person .person-right image.data-v-42d4fbc4 {
+  width: 80rpx;
+  height: 80rpx;
+}
+

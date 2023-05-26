@@ -1,0 +1,8 @@
+.middle.data-v-dcbcfe34 {
+  width: 100%;
+  border-top-left-radius: 100rpx;
+  border-top-right-radius: 100rpx;
+  background-color: #fbfbfb;
+  padding-bottom: 200rpx;
+}
+

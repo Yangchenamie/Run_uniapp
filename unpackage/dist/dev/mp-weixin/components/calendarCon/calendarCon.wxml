@@ -1,0 +1,1 @@
+<view class="content data-v-7aee734e"><view class="items data-v-7aee734e"><block wx:for="{{week}}" wx:for-item="item" wx:for-index="index" wx:key="index"><view class="{{['data-v-7aee734e',index==currentDay?'active':'']}}">{{item+''}}</view></block></view></view>

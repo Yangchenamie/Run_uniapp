@@ -1,0 +1,46 @@
+.content.data-v-7cc07174 {
+  box-sizing: border-box;
+  padding: 0 40rpx;
+}
+.content .top.data-v-7cc07174 {
+  margin-top: 50rpx;
+  width: 100%;
+  background-color: pink;
+  height: 350rpx;
+  border-radius: 36rpx;
+  font-size: 40rpx;
+  color: #fff;
+  padding: 0 70rpx;
+  box-sizing: border-box;
+  font-weight: 700;
+}
+.content .top .topFl.data-v-7cc07174 {
+  padding-top: 30rpx;
+  box-sizing: border-box;
+}
+.content .top .topFl .person.data-v-7cc07174 {
+  margin-top: 30rpx;
+  display: flex;
+  font-size: 36rpx;
+  align-items: center;
+}
+.content .top .topFl .person .pic.data-v-7cc07174 {
+  width: 140rpx;
+  height: 140rpx;
+  border-radius: 50%;
+  margin-right: 30rpx;
+}
+.content .top .topFr.data-v-7cc07174 {
+  float: right;
+  margin-top: -90rpx;
+}
+.content .top .topFr .love.data-v-7cc07174 {
+  float: right;
+  width: 56rpx;
+  height: 56rpx;
+  margin-top: 30rpx;
+}
+.content .list.data-v-7cc07174 {
+  margin-top: 50rpx;
+}
+

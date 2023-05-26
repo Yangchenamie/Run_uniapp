@@ -1,0 +1,53 @@
+.content.data-v-0f2274ae {
+  /* margin-top: 30rpx; */
+  padding: 40rpx 60rpx;
+}
+.content .conTitle.data-v-0f2274ae {
+  font-size: 52rpx;
+}
+.content .conTab.data-v-0f2274ae {
+  width: 100%;
+  margin-top: 40rpx;
+}
+.content .conTab ._ul.data-v-0f2274ae {
+  display: flex;
+  border: 2rpx solid #5495f7;
+  text-align: center;
+  height: 60rpx;
+  font-size: 36rpx;
+  line-height: 60rpx;
+}
+.content .conTab ._ul ._li.data-v-0f2274ae {
+  flex: 1;
+  background-color: #fff;
+  color: #5495f7;
+  border-right: 2rpx solid #5495f7;
+}
+.content .conTab ._ul ._li.data-v-0f2274ae:last-child {
+  border-right: 2rpx solid transparent;
+}
+.content .conTab ._ul .active.data-v-0f2274ae {
+  color: #fff;
+  background-color: #5495f7;
+}
+.content .Items .timeTitle.data-v-0f2274ae {
+  margin-top: 30rpx;
+  color: #7F7F7F;
+}
+.content .changeTab.data-v-0f2274ae {
+  display: flex;
+  margin-top: 40rpx;
+  float: right;
+  color: #7F7F7F;
+}
+.content .changeTab .distribution.data-v-0f2274ae {
+  margin-right: 10rpx;
+}
+.content .changeTab .trend.data-v-0f2274ae {
+  margin-left: 10rpx;
+}
+.content .changeTab .active.data-v-0f2274ae {
+  color: #333;
+  font-weight: 700;
+}
+

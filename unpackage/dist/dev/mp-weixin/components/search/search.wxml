@@ -1,0 +1,1 @@
+<view class="data-v-eb1fb978"><view class="con-sear data-v-eb1fb978"><image src="../../static/search.png" mode class="data-v-eb1fb978"></image><input class="bgc data-v-eb1fb978" type="text" placeholder="搜索" data-event-opts="{{[['tap',[['gotoSearch',['$event']]]]]}}" bindtap="__e"/></view></view>

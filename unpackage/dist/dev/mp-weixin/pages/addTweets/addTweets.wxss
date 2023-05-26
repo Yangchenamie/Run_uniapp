@@ -1,0 +1,28 @@
+.content .conTab.data-v-791132ce {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 30rpx;
+  box-sizing: border-box;
+  margin-top: 20rpx;
+}
+.content .conTab .conTab-left image.data-v-791132ce {
+  width: 60rpx;
+  height: 60rpx;
+}
+.content .conTab .conTab-right button.data-v-791132ce {
+  width: 200rpx;
+  height: 80rpx;
+  background-color: #1B5ED0;
+  border-radius: 18rpx;
+  color: #fff;
+  line-height: 80rpx;
+}
+.content .Con.data-v-791132ce {
+  margin-top: 50rpx;
+  padding: 0 20rpx;
+}
+.content .Con textarea.data-v-791132ce {
+  width: 100%;
+}
+

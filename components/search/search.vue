@@ -1,0 +1,53 @@
+<template>
+  <view>
+    <view class="con-sear">
+      <image src="../../static/search.png" mode=""></image>
+      <input type="text" placeholder="搜索" @click="gotoSearch" class="bgc">
+    </view>
+  </view>
+</template>
+
+<script>
+  export default {
+    name:"search",
+    data() {
+      return {
+        
+      };
+    }
+  }
+</script>
+
+<style scoped lang="less">
+.con-sear {
+      width: 100%;
+      position: relative;
+      height: 92rpx;
+      margin-top: 40rpx;
+      
+
+      & input {
+        margin: 0 50rpx;
+        width: 85%;
+        // border: 2rpx solid #5081FF;
+        height: 82rpx;
+        border-radius: 30rpx;
+        padding-left: 80rpx;
+        padding-right: 30rpx;
+        box-sizing: border-box;
+        font-size: 24rpx
+        
+      }
+      & .bgc{
+        background: #fff;
+      }
+      & image {
+        width: 40rpx;
+        height: 40rpx;
+        position: absolute;
+        top: 22rpx;
+        left: 10rpx;
+        margin-left: 64rpx;
+      }
+    }
+</style>

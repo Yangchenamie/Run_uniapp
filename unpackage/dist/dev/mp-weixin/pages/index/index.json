@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "index-header": "/components/IndexHeader/IndexHeader",
+    "static-con": "/components/staticCon/staticCon",
+    "tabbar": "/components/tabbar/tabbar",
+    "date-clock": "/components/dateClock/dateClock"
+  }
+}

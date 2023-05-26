@@ -1,0 +1,1 @@
+<view class="item data-v-09f44938"><view class="itemFl data-v-09f44938">{{'距离'+list.name+'还有'}}</view><view class="itemFr data-v-09f44938"><view class="days data-v-09f44938">{{''+dayOdd+''}}</view><view class="sky data-v-09f44938">天</view></view></view>

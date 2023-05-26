@@ -1,0 +1,64 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/list/list",
+    "pages/mine/mine",
+    "pages/chatting/chatting",
+    "pages/timing/timing",
+    "pages/createForm/createForm",
+    "pages/search/search",
+    "pages/clockTime/clockTime",
+    "pages/loginPage/loginPage",
+    "pages/tweets/tweets",
+    "pages/ranking/ranking",
+    "pages/downDays/downDays",
+    "pages/addDownDays/addDownDays",
+    "pages/calendarPage/calendarPage",
+    "pages/addTweets/addTweets",
+    "pages/chronograph/chronograph",
+    "pages/settings/settings",
+    "pages/changeNickName/changeNickName",
+    "pages/register/register"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/vedio.png",
+        "selectedIconPath": "static/vedio-active.png"
+      },
+      {
+        "pagePath": "pages/list/list",
+        "iconPath": "static/list.png",
+        "selectedIconPath": "static/list-active.png"
+      },
+      {
+        "pagePath": "pages/timing/timing",
+        "iconPath": "static/add.png",
+        "selectedIconPath": "static/add-active.png"
+      },
+      {
+        "pagePath": "pages/chatting/chatting",
+        "iconPath": "static/chat.png",
+        "selectedIconPath": "static/chat-active.png"
+      },
+      {
+        "pagePath": "pages/mine/mine",
+        "iconPath": "static/mine.png",
+        "selectedIconPath": "static/mine-active.png"
+      }
+    ]
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "查询用户地理位置，推荐本地视频，提高用户服务。"
+    }
+  },
+  "usingComponents": {}
+}

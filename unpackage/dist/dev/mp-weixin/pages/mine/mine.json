@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "mine-header": "/components/mineHeader/mineHeader",
+    "mine-con": "/components/mineCon/mineCon",
+    "tabbar": "/components/tabbar/tabbar"
+  }
+}

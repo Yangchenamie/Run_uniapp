@@ -1,0 +1,66 @@
+.content.data-v-50c8cc4e {
+  padding: 0 50rpx 0 40rpx;
+}
+.content .item.data-v-50c8cc4e {
+  display: flex;
+}
+.content .item .itemFl image.data-v-50c8cc4e {
+  width: 100rpx;
+  height: 100rpx;
+  border-radius: 50%;
+}
+.content .item .itemFr.data-v-50c8cc4e {
+  display: flex;
+  flex-flow: column;
+  margin-left: 20rpx;
+}
+.content .item .itemFr .itemText.data-v-50c8cc4e {
+  display: flex;
+  height: 100rpx;
+  justify-content: space-evenly;
+  flex-flow: column;
+}
+.content .item .itemFr .itemText .time.data-v-50c8cc4e {
+  font-size: 20rpx;
+  color: #777;
+}
+.content .item .itemFr .text.data-v-50c8cc4e {
+  margin-top: 15rpx;
+  font-size: 28rpx;
+}
+.content .comments.data-v-50c8cc4e {
+  float: right;
+}
+.content .comments image.data-v-50c8cc4e {
+  width: 40rpx;
+  height: 40rpx;
+  margin: 20rpx 10rpx;
+}
+.content .InputComments.data-v-50c8cc4e {
+  padding: 0;
+  clear: both;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.content .InputComments input.data-v-50c8cc4e {
+  width: 480rpx;
+}
+.content .InputComments button.data-v-50c8cc4e {
+  height: 70rpx;
+  width: 130rpx;
+  background-color: #5495f7;
+  margin: 0;
+  font-size: 28rpx;
+  color: #fff;
+}
+.content .commentList.data-v-50c8cc4e {
+  clear: both;
+  font-size: 28rpx;
+  color: #999;
+  margin: 6rpx 0 6rpx 50rpx;
+}
+.itemCon.data-v-50c8cc4e {
+  padding-bottom: 50px;
+}
+

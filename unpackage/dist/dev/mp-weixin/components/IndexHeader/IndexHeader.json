@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "date-clock": "/components/dateClock/dateClock",
+    "search": "/components/search/search"
+  }
+}

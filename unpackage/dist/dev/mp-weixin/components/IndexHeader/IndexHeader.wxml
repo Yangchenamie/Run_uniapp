@@ -1,0 +1,1 @@
+<view class="content data-v-4055be78"><view class="conTab data-v-4055be78"><date-clock vue-id="1acf78c2-1" class="data-v-4055be78" bind:__l="__l"></date-clock><image class="icon data-v-4055be78" src="../../static/5.png" mode data-event-opts="{{[['tap',[['gotoTweets',['$event']]]]]}}" bindtap="__e"></image></view></view>

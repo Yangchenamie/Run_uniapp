@@ -1,0 +1,37 @@
+.item.data-v-09f44938 {
+  width: 90%;
+  display: flex;
+  justify-content: space-between;
+  height: 80rpx;
+  background-color: #fff;
+  border-radius: 20rpx;
+  align-items: center;
+  box-sizing: border-box;
+  padding-left: 40rpx;
+  margin: 15rpx auto 0;
+}
+.item .itemFl.data-v-09f44938 {
+  max-width: 50%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.item .itemFr.data-v-09f44938 {
+  display: flex;
+  color: #fff;
+  align-items: center;
+}
+.item .itemFr .days.data-v-09f44938 {
+  background-color: #7ca0ff;
+  padding: 0 50rpx;
+  line-height: 80rpx;
+}
+.item .itemFr .sky.data-v-09f44938 {
+  background-color: #4b7af6;
+  padding: 0 30rpx;
+  height: 100%;
+  line-height: 80rpx;
+  border-top-right-radius: 20rpx;
+  border-bottom-right-radius: 20rpx;
+}
+

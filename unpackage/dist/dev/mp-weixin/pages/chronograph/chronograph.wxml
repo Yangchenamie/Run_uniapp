@@ -1,0 +1,1 @@
+<view class="content data-v-2d24fb1e"><view class="Con data-v-2d24fb1e"><text class="data-v-2d24fb1e">{{time}}</text></view><view data-event-opts="{{[['tap',[['timeOver',['$event']]]]]}}" class="exitBtn data-v-2d24fb1e" bindtap="__e">Slide out</view></view>

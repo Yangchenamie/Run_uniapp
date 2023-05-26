@@ -1,0 +1,54 @@
+.content.data-v-8545fb38 {
+  padding: 100rpx 30rpx 0;
+}
+.content .conTab.data-v-8545fb38 {
+  background-color: #4b7af6;
+  height: 150rpx;
+  font-size: 40rpx;
+  color: #fff;
+  text-align: center;
+  line-height: 150rpx;
+  border-top-left-radius: 30rpx;
+  border-top-right-radius: 30rpx;
+}
+.content .countdown.data-v-8545fb38 {
+  width: 100%;
+  height: 400rpx;
+  border-radius: 30rpx;
+  background-color: #f2f3f5;
+  overflow: auto;
+}
+.content .downTab.data-v-8545fb38 {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+.content .caleCon.data-v-8545fb38 {
+  margin-top: 50rpx;
+}
+.content .recording.data-v-8545fb38 {
+  margin-top: 60rpx;
+  padding-top: 60rpx;
+  height: 400rpx;
+  width: 100%;
+  background-color: #fff;
+  border-radius: 50rpx;
+  box-shadow: 2rpx 2rpx 10rpx 1rpx rgba(0, 0, 0, 0.3);
+}
+.content .recording .recordTab.data-v-8545fb38 {
+  padding: 0 52rpx;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: space-between;
+}
+.content .recording .recordTab .tabFr .text.data-v-8545fb38 {
+  margin-top: 10rpx;
+  font-size: 20rpx;
+  color: #a9a9a9;
+}
+.content .recording .recordTab .tabFr image.data-v-8545fb38 {
+  width: 60rpx;
+  height: 60rpx;
+}
+

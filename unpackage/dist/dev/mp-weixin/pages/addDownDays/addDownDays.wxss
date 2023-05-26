@@ -1,0 +1,67 @@
+.content.data-v-5503a788 {
+  padding-bottom: 40rpx;
+}
+.content .conTab.data-v-5503a788 {
+  height: 270rpx;
+  background-color: #4b7af6;
+  display: flex;
+  justify-content: space-between;
+  font-size: 52rpx;
+  color: #fff;
+  align-items: center;
+  padding: 40rpx 40rpx 0;
+  box-sizing: border-box;
+}
+.content .conTab image.data-v-5503a788 {
+  width: 50rpx;
+  height: 50rpx;
+}
+.content .form.data-v-5503a788 {
+  padding: 0 56rpx;
+  width: 100%;
+  box-sizing: border-box;
+  margin-top: 50rpx;
+}
+.content .form .item.data-v-5503a788 {
+  align-items: center;
+  height: 100rpx;
+  margin-bottom: 60rpx;
+  width: 100%;
+  display: flex;
+  border-bottom: 2rpx solid #ccc;
+}
+.content .form .item label.data-v-5503a788 {
+  color: #a9a9a9;
+  margin-right: 40rpx;
+}
+.content .form .item input.data-v-5503a788 {
+  width: 70%;
+}
+.content .form .item picker.data-v-5503a788 {
+  width: 220rpx;
+}
+.content .form .time.data-v-5503a788 {
+  display: flex;
+  margin-bottom: 60rpx;
+}
+.content .form .time .timeItem.data-v-5503a788 {
+  display: flex;
+  flex: 1;
+}
+.content .form .time .timeItem label.data-v-5503a788 {
+  margin-right: 40rpx;
+  color: #a9a9a9;
+}
+.content .form .btn.data-v-5503a788 {
+  -webkit-transform: translateX(50%);
+          transform: translateX(50%);
+  margin-left: 60rpx;
+  width: 240rpx;
+  height: 66rppx;
+  border-radius: 30rpx;
+  background-color: #4b7af6;
+  text-align: center;
+  line-height: 66rpx;
+  color: #fff;
+}
+

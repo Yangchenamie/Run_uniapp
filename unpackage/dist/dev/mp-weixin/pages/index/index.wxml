@@ -1,0 +1,1 @@
+<view class="content data-v-57280228"><index-header vue-id="8dd740cc-1" class="data-v-57280228" bind:__l="__l"></index-header><view class="middle data-v-57280228"><static-con vue-id="8dd740cc-2" class="data-v-57280228" bind:__l="__l"></static-con></view><tabbar vue-id="8dd740cc-3" state="{{state}}" class="data-v-57280228" bind:__l="__l"></tabbar></view>

@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "list-tab": "/components/listTab/listTab",
+    "list-item": "/components/listItem/listItem",
+    "tabbar": "/components/tabbar/tabbar"
+  }
+}

@@ -1,0 +1,1 @@
+<view class="content data-v-5188b278"><view class="triangle data-v-5188b278"></view><image class="run data-v-5188b278" src="../../static/run.png" mode></image><view class="square data-v-5188b278"></view><view class="buttonBox data-v-5188b278"><view data-event-opts="{{[['tap',[['login',['$event']]]]]}}" class="btn data-v-5188b278" bindtap="__e">一键登录</view></view></view>

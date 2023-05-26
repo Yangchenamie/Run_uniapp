@@ -1,0 +1,1 @@
+<view class="content data-v-02e38386"><view class="conTab data-v-02e38386"><con-tab vue-id="598d6e40-1" arr="{{arr}}" showFlag="{{true}}" goUrl="{{goUrl}}" class="data-v-02e38386" bind:__l="__l"></con-tab></view><view class="items data-v-02e38386"><friend-con vue-id="598d6e40-2" class="data-v-02e38386" bind:__l="__l"></friend-con></view></view>

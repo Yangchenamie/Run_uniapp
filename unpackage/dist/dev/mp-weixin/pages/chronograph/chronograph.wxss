@@ -1,0 +1,39 @@
+.content.data-v-2d24fb1e {
+  position: relative;
+  background-color: #354063;
+}
+.content .Con.data-v-2d24fb1e {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  -webkit-transform: rotate(-90deg);
+          transform: rotate(-90deg);
+  -webkit-transform-origin: 50% 50%;
+          transform-origin: 50% 50%;
+}
+.content .Con text.data-v-2d24fb1e {
+  color: #7C8DC6;
+  font-size: 300rpx;
+}
+.content .exitBtn.data-v-2d24fb1e {
+  position: absolute;
+  background-color: #2f364a;
+  right: -42vw;
+  top: 45vh;
+  width: 100vw;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  -webkit-transform: rotate(-90deg);
+          transform: rotate(-90deg);
+  -webkit-transform-origin: 50% 50%;
+          transform-origin: 50% 50%;
+  color: #A6A1A1;
+  font-size: 36rpx;
+  border-top-right-radius: 1000rpx;
+  border-top-left-radius: 1000rpx;
+}
+

@@ -1,0 +1,37 @@
+.item.data-v-c7ffe11c {
+  padding: 0 60rpx 0 70rpx;
+  box-sizing: border-box;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 110rpx;
+  background-color: #fff;
+  border-radius: 40rpx;
+  box-shadow: 10px 10px 20px 1px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20rpx;
+}
+.item image.data-v-c7ffe11c {
+  width: 60rpx;
+  height: 60rpx;
+}
+.item .item-fl.data-v-c7ffe11c {
+  display: flex;
+  align-items: center;
+}
+.item .item-fl image.data-v-c7ffe11c {
+  border-radius: 50%;
+  margin: 0 20rpx;
+}
+.item .item-fl .person.data-v-c7ffe11c {
+  display: flex;
+  align-items: center;
+}
+.item .item-fr.data-v-c7ffe11c {
+  display: flex;
+  align-items: center;
+}
+.item .item-fr .love.data-v-c7ffe11c {
+  margin-left: 20rpx;
+}
+
